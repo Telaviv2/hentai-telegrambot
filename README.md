@@ -1,3 +1,4 @@
+!DOSA TANGGUNG SENDIRI!
 # Hentai Bot
 
 Bot Telegram yang memungkinkan pengguna untuk mendownload video hentai. Bot ini mengambil daftar video dari situs web tertentu dan memberikan kemampuan kepada pengguna untuk memilih dan mendownload konten yang diinginkan.
@@ -26,3 +27,7 @@ Untuk mengatur bot, ikuti langkah-langkah berikut:
    cd hentai-telegrambot
    npm install
    npm start
+
+
+   isi bot token kalian di bot.js ambil token nya di @BotFather
+   
