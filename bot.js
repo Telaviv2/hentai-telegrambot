@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 const cheerio = require('cheerio');
 
 // Ganti dengan token bot Anda
-const bot = new Bot('7897377:AAFJXMrPc7SGoQ2nfWT5fqJ0_uHT-4qfnFY');
+const bot = new Bot('7956762549:AAFLGuXP8lJT1vkuEiNuTXmQ43OSdp2lS3s');
 
 // Fungsi untuk mendapatkan daftar video hentai
 async function getHentaiList() {
